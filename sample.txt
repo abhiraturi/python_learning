@@ -1,0 +1,5 @@
+This is a text file. 
+We Will be performing different file functions/operations on this file for learning file I/O.
+Hope this will help everybody.Adding new lines to the file
+Adding new lines to the file
+ This line was added using with statement
